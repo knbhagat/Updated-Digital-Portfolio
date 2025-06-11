@@ -89,10 +89,10 @@
 					"builder": "@angular-devkit/build-angular:dev-server",
 					"configurations": {
 						"production": {
-							"buildTarget": "JayantGoel001:build:production"
+							"browserTarget": "JayantGoel001:build:production"
 						},
 						"development": {
-							"buildTarget": "JayantGoel001:build:development"
+							"browserTarget": "JayantGoel001:build:development"
 						}
 					},
 					"defaultConfiguration": "development"
@@ -100,7 +100,7 @@
 				"extract-i18n": {
 					"builder": "@angular-devkit/build-angular:extract-i18n",
 					"options": {
-						"buildTarget": "JayantGoel001:build"
+						"browserTarget": "JayantGoel001:build"
 					}
 				},
 				"test": {
