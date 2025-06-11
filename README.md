@@ -69,12 +69,6 @@ To customize the portfolio for your own use:
 3. Modify the styling in the component-specific CSS files
 4. Update the project links and descriptions
 
-## Contact
-
-Feel free to reach out to me through:
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
 
 ## License
 
